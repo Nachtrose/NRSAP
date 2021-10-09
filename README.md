@@ -1,2 +1,2 @@
 # NRSAP
- Nachtrose's Sci-fi ( and modern ) animated pack
+ Nachtrose's Sci-fi ( and modern ) Animated Pack
