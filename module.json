@@ -5,5 +5,24 @@
     "author": "Nachtrose",
     "version": "0.0.0.a",
     "minimumCoreVersion": "0.8.9",
-    "compatibleCoreVersion": "0.8.9"
+    "compatibleCoreVersion": "0.8.9",
+    "url": "https://github.com/Nachtrose/NRSAP",
+    "manifest": "https://raw.githubusercontent.com/Nachtrose/NRSAP/main/module.json",
+    "download": "https://github.com/Nachtrose/NRSAP/archive/refs/heads/main.zip?raw=true",
+    "packs": [
+        {
+            "entity": "Macro",            
+            "label": "NRSAP Sample Macros",
+            "name": "nrsap-sample-macros",
+            "path": "./packs/nrsap-sample-macros.db",
+            "module": "NRSAP"
+        },
+        {
+            "entity": "Scene",            
+            "label": "NRSAP Sample Scenes",
+            "name": "nrsap-sample-scenes",
+            "path": "./packs/nrsap-sample-scenes.db",
+            "module": "NRSAP"
+        }
+    ]
 }
