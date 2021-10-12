@@ -7,6 +7,7 @@ By a fickle twists of fate i managed in the end finish my take on FTL style trav
 I also want to thank **wildj79** and **Deepflame** and all the other contributors for their great work on the Starfinder system module which is the number one reason i am making this module at all.
 
 ![Drift_demo](/images/drift_travel_demo.gif)
+
 ( scene created using functionality of the Sequencer module. Space background images, cockpit overlay and destination picking are all parts of the Sequencer module used to demonstrate a whole FTL sequence using both modules)
 
 ## Dependencies
