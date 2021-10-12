@@ -23,7 +23,7 @@ This module also uses trademarks and/or copyrights owned by Paizo Inc., used und
 
 ## Support
 
-This module is in it's **_very_** early stage of development, but should you feel the urge to support this module, you can do so here:
+This module is in it's **_very_** early stage of development, but should you feel the urge to support this module, you can tip me here:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J45HWX3)
 
