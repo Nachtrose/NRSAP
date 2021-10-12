@@ -1,4 +1,4 @@
-# Nachtrose's Sci-fi ( and modern ) Animated Pack / NRSAP for short
+# Nachtrose's Sci-Fi ( and modern ) Animated Pack / NRSAP for short
 
 ## About and credits
 
