@@ -4,6 +4,7 @@
 
 This module has been inspired into existence by Jules & Ben's Animated attacks ( [ JB2A ](https://github.com/Jules-Bens-Aa/JB2A_DnD5e) ) which it means to compliment in fields, that aren't J&B's focus, sci-fi and modern assets.
 By a fickle twists of fate i managed in the end finish my take on FTL style travel earlier than any of the attack animations i was aiming for and as people seemed to be interested in these assets, i decided to start this module with just that. To make the setup a little easier, i have ~~stolen~~ borrowed the Hyperspace macro from Adam Oresten's [Sequencer](https://github.com/fantasycalendar/FoundryVTT-Sequencer) module.
+I also want to thank **wildj79** and **Deepflame** and all the other contributors for their great work on the Starfinder system module which is the number one reason i am making this module at all.
 
 ## Dependencies
 
