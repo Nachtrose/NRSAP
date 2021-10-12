@@ -13,7 +13,7 @@ I also want to thank **wildj79** and **Deepflame** and all the other contributor
 ## Dependencies
 
 This module is system and language agnostic and the assets included have no dependencies themself.
-However, if you do not wan't everything to set up manually, this module will bundle some example macros, that might require some other modules to work properly. This list might grow in the future.
+However, if you do not wan't everything to set up manually, this module will bundle some example macros, that might require other modules to work properly. This list might grow in the future.
 
  #### Conditional dependencies
 
