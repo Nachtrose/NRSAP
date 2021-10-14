@@ -46,5 +46,5 @@ All tips are deeply appreciated.
 ### v0.0.0a
 - initial release
 - added animated assets for drift (FTL) travel
-- added compendium with example scene
-- added compendium with example macros
+- added compendium with example scene ( requires Sequencer module )
+- added compendium with example macros ( requires Sequencer module )
