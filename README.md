@@ -1,6 +1,12 @@
 # Nachtrose's Sci-Fi ( and modern ) Animated Pack / NRSAP for short
 
-## About and credits
+## Hottest news
+
+After a talk with the great Sequencer guy, Adam Oresten, i was offered the possibility to host his Hyperspeed assets in my module, main reasons being, that it will cut on the size of his code oriented module. And it greatly fits here.
+
+**A big "Thank you Adam!"**
+
+## About
 
 This module has been inspired into existence by Jules & Ben's Animated attacks ( [ JB2A ](https://github.com/Jules-Bens-Aa/JB2A_DnD5e) ) which it means to compliment in fields, that aren't J&B's focus, sci-fi and modern assets.
 By a fickle twists of fate i managed in the end finish my take on FTL style travel earlier than any of the attack animations i was aiming for and as people seemed to be interested in these assets, i decided to start this module with just that. To make the setup a little easier, i have ~~stolen~~ borrowed the Hyperspace macro from Adam Oresten's [Sequencer](https://github.com/fantasycalendar/FoundryVTT-Sequencer) module.
@@ -33,6 +39,14 @@ This module is in it's **_very_** early stage of development, but should you fee
 
 All tips are deeply appreciated.
 
+## Credits
+
+### Hyperspeed Scene
+- Hyperdrive Animations - Copyright © 2020 Adam Oresten
+- Sounds [HellScape Tabletop Assets](https://www.patreon.com/HellScapeAssets) - Copyright © 2020 AurelTristen
+- Sci-fi Cockpits - Copyright © 2020 Vattalus Assets
+- Stellaris Animated Backgrounds - Copyright © 2021 Paradox Interactive
+
 ## To-do List
 
 - add own audio to the drift travel animations
@@ -43,11 +57,14 @@ All tips are deeply appreciated.
 
 ## Changelog
 
-### v0.0.0a
-- initial release
-- added animated assets for drift (FTL) travel
-  - in travel seamless loop
-  - entry and exit with glass shatter transition effect
-  - entry and exit with hex shatter transition effect
-- added compendium with example scene ( requires Sequencer module )
-- added compendium with example macros ( requires Sequencer module )
+This part includes only the lates changes. You can find the complete changelog [here](CHANGELOG.md)
+
+### v0.0.1i
+- inheritance release ( for obvious reasons )
+- with express permission, ported over Hyperspeed assets that were previously included in the Sequencer module
+  - hyperspeed entry, loop and exit animations
+  - animated and static scene backgrounds
+  - two cockpit overlays
+  - the acompanying audio tracks
+- changed the example scene to reflect the new asset paths ( requires Sequencer module )
+- changed the example macros to reflect the new asset paths ( requires Sequencer module )
