@@ -27,6 +27,6 @@
     ],
     "scripts": [
         "./scripts/settings.js",   
-        "./scripts/window_popup.js"   
+        "./scripts/window-popup.js"   
     ]  
 }
