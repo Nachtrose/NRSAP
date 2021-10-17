@@ -10,3 +10,4 @@
   - entry and exit with hex shatter transition effect
 - added compendium with example scene ( requires Sequencer module )
 - added compendium with example macros ( requires Sequencer module )
+- changed all underscores ( _ ) in names to dashes( - ) for tha sake of naming consistency
