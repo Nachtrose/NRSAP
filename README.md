@@ -59,6 +59,9 @@ All tips are deeply appreciated.
 
 This part includes only the lates changes. You can find the complete changelog [here](CHANGELOG.md)
 
+### v0.1.1i hotfix
+- fixed image references in example macros
+
 ### v0.1.0i
 - inheritance release ( for obvious reasons )
 - with express permission, ported over Hyperspeed assets that were previously included in the [Sequencer](https://github.com/fantasycalendar/FoundryVTT-Sequencer) module
