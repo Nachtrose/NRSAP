@@ -24,5 +24,9 @@
             "path": "./packs/nrsap-sample-scenes.db",
             "module": "NRSAP"
         }
-    ]
+    ],
+    "scripts": [
+        "./scripts/settings.js",   
+        "./scripts/window_popup.js"   
+    ]  
 }
