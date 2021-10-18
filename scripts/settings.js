@@ -11,13 +11,13 @@ Hooks.on("init", () => {
     });*/
     
     // Register a world setting
-    game.settings.register("NRSAP", "runonlyonce", {      // game.setting.register("NameOfTheModule", "VariableName",
+    game.settings.register("NRSAP", "lastVer", {      // game.setting.register("NameOfTheModule", "VariableName",
       name: "Nachtrose's Sci-Fi Animated Pack settings",  // Register a module setting with checkbox
       hint: "Disable startup window popup",               // Description of the settings
       scope: "world",                                     // This specifies a world-level setting
-      config: true,                                       // This specifies that the setting appears in the configuration view
-      type: Boolean,
-      default: false,                                     // The default value for the setting
+      config: false,                                       // This specifies that the setting appears in the configuration view
+      type: String,
+      default: '0.0.0',                                     // The default value for the setting
     });
     });
     
