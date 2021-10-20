@@ -47,6 +47,10 @@ All tips are deeply appreciated.
 - Sci-fi Cockpits - Copyright © 2020 Vattalus Assets
 - Stellaris Animated Backgrounds - Copyright © 2021 Paradox Interactive
 
+### The small things by scale, but big by impact
+- most of the macros used here were straight up created by Wasp the sequencer guy, without him, this module would be a pale shadow of itself
+- tile-based backround and the acompanying macro was the idea of Bruno Calado ([#2](https://github.com/Nachtrose/NRSAP/issues/2)) and slightly remade again by Wasp
+
 ## To-do List
 
 - add own audio to the drift travel animations
@@ -58,6 +62,13 @@ All tips are deeply appreciated.
 ## Changelog
 
 This part includes only the lates changes. You can find the complete changelog [here](CHANGELOG.md)
+
+### v0.1.2i hotfix2
+- added a macro, that allows you to change foreground image with a few clicks or hide/unhide it ([#4](https://github.com/Nachtrose/NRSAP/issues/4)) - thanks Wasp
+- added an example scene and macro that uses a tile as a bacground image to avoid reloading of the whole scene ([#2](https://github.com/Nachtrose/NRSAP/issues/2)) - thanks Bruno Calado and Wasp
+- renamed `cockpits` to `foregrounds`( again, sorry for the inconvenience )
+- fixed references to foreground images in example scenes that didn't reflect the name chanes from underscores to dashes
+- fixed references to foreground images in example scenes to reflect the new folder name
 
 ### v0.1.1i hotfix
 - fixed image references in example macros
