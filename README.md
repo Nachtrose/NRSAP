@@ -84,6 +84,6 @@ This part includes only the lates changes. You can find the complete changelog [
 - changed the example macros to reflect the new asset paths and naming ( requires Sequencer module )
 - included a scene for the original sequencer styled hypertravel into compendium
 - included a macro for the original sequencer styled hypertravel into compendium ( requires Sequencer module )
-- changed all underscores ( _ ) in names to dashes( - ) for the sake of naming consistency
+- changed all underscores ` _ ` in names to dashes ` - ` for the sake of naming consistency
 - changed uppercase "D" in drift animation names to lowercase "d"
 - added mp4 version of in-travel loops ( #1 )
