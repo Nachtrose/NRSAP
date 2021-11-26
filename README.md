@@ -53,15 +53,19 @@ All tips are deeply appreciated.
 
 ## To-do List
 
-- add own audio to the drift travel animations
-- start adding attack animations
-- add more attack animations
-- look into creating non-weapon based effect, spells etc.
+- [x] add own audio to the drift travel animations 
+- [ ] start adding attack animations
+- [ ] add more attack animations
+- [ ] look into creating non-weapon based effect, spells etc.
 
 
 ## Changelog
 
 This part includes only the lates changes. You can find the complete changelog [here](CHANGELOG.md)
+
+### v0.1.3i
+- added custom audiofiles for drift travel
+- updated the sample macros with new audio files
 
 ### v0.1.2i hotfix2
 - added a macro, that allows you to change foreground image with a few clicks or hide/unhide it ([#4](https://github.com/Nachtrose/NRSAP/issues/4)) - thanks Wasp
