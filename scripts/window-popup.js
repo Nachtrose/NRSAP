@@ -1,6 +1,6 @@
 Hooks.once('ready', async function () {
 
-    var moduleVersion = game.modules.get("NRSAP").data.version;
+/*    var moduleVersion = game.modules.get("NRSAP").data.version;
 
     if (game.user.isGM) {
         if (game.settings.get("NRSAP", "lastVer") != moduleVersion ) {
@@ -23,4 +23,4 @@ Hooks.once('ready', async function () {
             d.render(true);
         }
     }
-})
+*/})

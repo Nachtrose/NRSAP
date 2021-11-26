@@ -1,5 +1,9 @@
 # Changelog
 
+### v0.1.3i
+- added custom audiofiles for drift travel
+- updated the sample macros with new audio files
+
 ### v0.1.2i hotfix2
 - added a macro, that allows you to change foreground image with a few clicks or hide/unhide it ([#4](https://github.com/Nachtrose/NRSAP/issues/4)) - thanks Wasp
 - added an example scene and macro that uses a tile as a background image to avoid reloading of the whole scene ([#2](https://github.com/Nachtrose/NRSAP/issues/2)) - thanks Bruno Calado and Wasp
