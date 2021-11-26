@@ -3,12 +3,12 @@
     "title": "Nachtrose's Sci-Fi ( and modern ) Animated Pack",
     "description": "This module is meant as a collection of animated assets aimed predominantly at players of sci-fi or modern themed system. With a slightly heavier emphasis on sci-fi.",
     "author": "Nachtrose",
-    "version": "0.1.2i",
+    "version": "0.1.3i",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.9",
     "url": "https://github.com/Nachtrose/NRSAP",
     "manifest": "https://raw.githubusercontent.com/Nachtrose/NRSAP/main/module.json",
-    "download": "https://github.com/Nachtrose/NRSAP/releases/download/0.1.2i/NRSAP.zip?raw=true",
+    "download": "https://github.com/Nachtrose/NRSAP/releases/download/0.1.3i/NRSAP.zip?raw=true",
     "packs": [
         {
             "entity": "Macro",            
