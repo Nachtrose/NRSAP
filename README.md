@@ -38,7 +38,7 @@ Free doesn’t just mean free from payment, it also means free from hassle. You 
 You are allowed to accept donations on platforms like Patreon and to generate advertising revenue via YouTube, Twitch, and web ads.
 You are allowed to have paid sponsorship of your content as long as that sponsor is clearly identified to your audience.
 
-*NOTE: Some parts of this module may be licensed undes other licenses. But fo example Paizo's license is very simillar*
+*NOTE: Some parts of this module may be licensed undes other licenses. But for example Paizo's license is very simillar*
 
 This module also uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy [paizo.com/communityuse](https://www.paizo.com/communityuse). We are expressly prohibited from charging you to use or access this content. This module is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [paizo.com](https://www.paizo.com).
 
