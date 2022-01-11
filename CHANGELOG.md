@@ -1,5 +1,8 @@
 # Changelog
 
+### v0.1.3.9i
+- updated compatibility for Foundry V9+
+
 ### v0.1.3i
 - added custom audiofiles for drift travel
 - updated the sample macros with new audio files

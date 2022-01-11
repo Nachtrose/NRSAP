@@ -29,6 +29,17 @@ However, if you do not wan't everything to set up manually, this module will bun
 
 Until specified otherwise, the assets and code of this module are licensed under CC-BY-SA-NC 4.0 and MIT License respectively, © 2021 Marian Kuba. More details can be found in the [Licenses](https://github.com/Nachtrose/NRSAP/tree/main/licenses) section.
 
+**Exception**
+
+Even if this module is licensed under the Non-Commercial license, you are allowed in your streams, videos or simillar ( YouTube, Twitch, etc...) that generates you revenue as long as you adhere to the following rules:
+
+Your project must be free. You’re free to use NRSAP in your project provided that your project is accessible by everyone for free.
+Free doesn’t just mean free from payment, it also means free from hassle. You can’t require survey completions, gate access behind downloads of unrelated products, require opting in to email lists (unless the entirety of your project is only available in email form), or other unnecessary annoyances as a requirement to access your project. You can’t lock your content behind a paywall of any sort.
+You are allowed to accept donations on platforms like Patreon and to generate advertising revenue via YouTube, Twitch, and web ads.
+You are allowed to have paid sponsorship of your content as long as that sponsor is clearly identified to your audience.
+
+*NOTE: Some parts of this module may be licensed undes other licenses. But fo example Paizo's license is very simillar*
+
 This module also uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy [paizo.com/communityuse](https://www.paizo.com/communityuse). We are expressly prohibited from charging you to use or access this content. This module is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [paizo.com](https://www.paizo.com).
 
 ## Support
@@ -62,6 +73,9 @@ All tips are deeply appreciated.
 ## Changelog
 
 This part includes only the lates changes. You can find the complete changelog [here](CHANGELOG.md)
+
+### v0.1.3.9i
+- updated compatibility for Foundry V9+
 
 ### v0.1.3i
 - added custom audiofiles for drift travel
