@@ -3,16 +3,16 @@
     "title": "Nachtrose's Sci-Fi ( and modern ) Animated Pack",
     "description": "This module is meant as a collection of animated assets aimed predominantly at players of sci-fi or modern themed system. With a slightly heavier emphasis on sci-fi.",
     "author": "Nachtrose",
-    "version": "0.1.3.9i",
+    "version": "0.1.3.10i",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "9",
     "url": "https://github.com/Nachtrose/NRSAP",
     "manifest": "https://raw.githubusercontent.com/Nachtrose/NRSAP/main/module.json",
-    "download": "https://github.com/Nachtrose/NRSAP/releases/download/0.1.3.9i/NRSAP.zip?raw=true",
+    "download": "https://github.com/Nachtrose/NRSAP/releases/download/0.1.3.10i/NRSAP.zip?raw=true",
     "packs": [
         {
             "entity": "Macro",            
-            "label": "NRSAP Sample Macros",
+            "label": "DO NOT USE -NRSAP Sample Macros",
             "name": "nrsap-sample-macros",
             "path": "./packs/nrsap-sample-macros.db",
             "module": "NRSAP"
@@ -22,6 +22,13 @@
             "label": "NRSAP Sample Scenes",
             "name": "nrsap-sample-scenes",
             "path": "./packs/nrsap-sample-scenes.db",
+            "module": "NRSAP"
+        },
+        {
+            "entity": "Macro",            
+            "label": "NRSAP Space Travel",
+            "name": "nrsap-space-travel",
+            "path": "./packs/nrsap-space-travel.db",
             "module": "NRSAP"
         }
     ],

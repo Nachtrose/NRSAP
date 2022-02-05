@@ -1,5 +1,17 @@
 # Changelog
 
+### v0.1.3.10i
+#### Bugfixes
+- fixed a typo in Drift-travel-with-tiles scene setup that prevented the loading of one asset on case sensitive systems ( ie. Linux )
+- Foundry made some changes to canvas and the Drift-travel-with-tiles macro didn't update the background tile.
+you can either pull an updated macro from the compendium, or change in you existing macro the line `coreBackground.update({ img: img });` to `coreBackground.document.update({ img: img });`
+#### Changes
+- created a new compendium called `NRSAP Space Travel` with macros for drift and hyperspace travel sequences.
+- added the foncionality of "autoupdated macros" ([#12](https://github.com/Nachtrose/NRSAP/issues/12)). Anyone that uses the macros without any changes can pull the `( autoupdate )` macro from the compendium. This call the proper macro directly from compendium and allows for fixes/changes in the macros without the user needing to take any actions. Until something drasticaly changes, you shouldn't even have to pull a new `( autoupdate )` macro with each new version. Anyone that edits ther macros still should use the full macros.
+- added the ˙Hyperspace-with-tiles` scene together with acompanying macros
+- The `NRSAP Sample Macros` compendium is not used or maintained at the moment, *DO NOT* use the macros there as new macros. I'm keeping it here just a while longer before deleting.
+
+
 ### v0.1.3.9i
 - updated compatibility for Foundry V9+
 
