@@ -1,5 +1,19 @@
 # Changelog
 
+### v0.1.3.11i
+
+#### Updates
+- updated for Foundry V10+ ([#15]https://github.com/Nachtrose/NRSAP/issues/15)
+- due to core changes in the data structure, the acompaniing macros were updated again. People that are using the autopudate version shouldn't have any trouble, anyone using the full macros needs to pull the new ones.
+
+#### Changes
+- scenes using tiles as background now identify these tiles via flags. This resolves a issue, where macro got stuck while using backgrounds outside of the main folder ([#16]https://github.com/Nachtrose/NRSAP/issues/16)
+- included scenes got updated with the flags already set up
+- added macros for flagging and unflagging tiles as the tile for background images ( select tile, run macro ) - found in NRSAP Helper Macros compendium
+
+#### Deprecation
+- in one of the next updates i will deprecate the support for scenes that change the scene background image, as it is just double of the same, but in my eyes inferior to the seamless setup using tiles
+
 ### v0.1.3.10i
 #### Bugfixes
 - fixed a typo in Drift-travel-with-tiles scene setup that prevented the loading of one asset on case sensitive systems ( ie. Linux )

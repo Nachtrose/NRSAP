@@ -26,10 +26,9 @@ All tips are deeply appreciated.
 
 ## Dependencies
 
-This module is system and language agnostic and the assets included have no dependencies themself.
-However, if you do not wan't everything to set up manually, this module will bundle some example macros, that might require other modules to work properly. This list might grow in the future.
+Seeing as a lot of people using this module use the included macros directly, i made Sequencer a full dependency.
 
- #### Conditional dependencies
+ #### Dependencies
 
    [Sequencer](https://github.com/fantasycalendar/FoundryVTT-Sequencer) by Adam Oresten
    
@@ -75,20 +74,16 @@ This module also uses trademarks and/or copyrights owned by Paizo Inc., used und
 
 This part includes only the lates changes. You can find the complete changelog [here](CHANGELOG.md)
 
-### v0.1.3.10i
-#### Bugfixes
-- fixed a typo in Drift-travel-with-tiles scene setup that prevented the loading of one asset on case sensitive systems ( ie. Linux )
-- Foundry made some changes to canvas and the Drift-travel-with-tiles macro didn't update the background tile.
-you can either pull an updated macro from the compendium, or change in you existing macro the line `coreBackground.update({ img: img });` to `coreBackground.document.update({ img: img });`
+### v0.1.3.11i
+
+#### Updates
+- updated for Foundry V10+ ([#15]https://github.com/Nachtrose/NRSAP/issues/15)
+- due to core changes in the data structure, the acompaniing macros were updated again. People that are using the autopudate version shouldn't have any trouble, anyone using the full macros needs to pull the new ones.
+
 #### Changes
-- created a new compendium called `NRSAP Space Travel` with macros for drift and hyperspace travel sequences.
-- added the foncionality of "autoupdated macros" ([#12](https://github.com/Nachtrose/NRSAP/issues/12)). Anyone that uses the macros without any changes can pull the `( autoupdate )` macro from the compendium. This call the proper macro directly from compendium and allows for fixes/changes in the macros without the user needing to take any actions. Until something drasticaly changes, you shouldn't even have to pull a new `( autoupdate )` macro with each new version. Anyone that edits ther macros still should use the full macros.
-- added the ˙Hyperspace-with-tiles` scene together with acompanying macros
-- The `NRSAP Sample Macros` compendium is not used or maintained at the moment, *DO NOT* use the macros there as new macros. I'm keeping it here just a while longer before deleting.
+- scenes using tiles as background now identify these tiles via flags. This resolves a issue, where macro got stuck while using backgrounds outside of the main folder ([#16]https://github.com/Nachtrose/NRSAP/issues/16)
+- included scenes got updated with the flags already set up
+- added macros for flagging and unflagging tiles as the tile for background images ( select tile, run macro ) - found in NRSAP Helper Macros compendium
 
-### v0.1.3.9i
-- updated compatibility for Foundry V9+
-
-### v0.1.3i
-- added custom audiofiles for drift travel
-- updated the sample macros with new audio files
+#### Deprecation
+- in one of the next updates i will deprecate the support for scenes that change the scene background image, as it is just double of the same, but in my eyes inferior to the seamless setup using tiles
