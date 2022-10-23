@@ -50,7 +50,7 @@
         ]
     },
     "url": "https://github.com/Nachtrose/NRSAP",
-    "manifest": "https://github.com/Nachtrose/NRSAP/releases/latest/download/manifest.json",
+    "manifest": "https://github.com/Nachtrose/NRSAP/releases/latest/download/module.json",
     "download": "https://github.com/Nachtrose/NRSAP/releases/latest/download/NRSAP.zip",
     "readme": "https://github.com/Nachtrose/NRSAP/blob/main/README.md",
     "bugs": "https://github.com/Nachtrose/NRSAP/issues" 
