@@ -2,56 +2,47 @@
     "id": "NRSAP",
     "title": "Nachtrose's Sci-Fi ( and modern ) Animated Pack",
     "description": "This module is meant as a collection of animated assets aimed predominantly at players of sci-fi or modern themed system. With a slightly heavier emphasis on sci-fi.",
-    "version": "0.1.3.11i",
-    "minimumCoreVersion": "10",
+    "version": "0.1.3.12i",
     "compatibility": {
         "minimum": "10",
-        "verified": "10"
+        "verified": "11"
     },
     "authors": [
         {
-            "name": "Nachtrose",
-            "discord": "Nachtrose#9287"
+          "name": "Nachtrose",
+          "discord": "Nachtrose#9287",
+          "flags": {}
         }
-    ],
-    "packs": [
+      ],
+      "packs": [
         {
-            "entity": "Scene",            
-            "label": "NRSAP Sample Scenes",
-            "name": "nrsap-sample-scenes",
-            "path": "./packs/nrsap-sample-scenes.db",
-            "module": "NRSAP"
+          "label": "NRSAP Sample Scenes",
+          "name": "nrsap-sample-scenes",
+          "path": "packs/nrsap-sample-scenes.db",
+          "type": "Scene",
+          "private": false,
+          "flags": {}
         },
         {
-            "entity": "Macro",            
-            "label": "NRSAP Space Travel",
-            "name": "nrsap-space-travel",
-            "path": "./packs/nrsap-space-travel.db",
-            "module": "NRSAP"
+          "label": "NRSAP Space Travel",
+          "name": "nrsap-space-travel",
+          "path": "packs/nrsap-space-travel.db",
+          "type": "Macro",
+          "private": false,
+          "flags": {}
         },
         {
-            "entity": "Macro",
-            "label": "NRSAP Helper Macros",
-            "name": "nrsap-helper-macros",
-            "path": "./packs/nrsap-helper-macros.db",
-            "module": "NRSAP"
+          "label": "NRSAP Helper Macros",
+          "name": "nrsap-helper-macros",
+          "path": "packs/nrsap-helper-macros.db",
+          "type": "Macro",
+          "private": false,
+          "flags": {}
         }
-    ],
-    "scripts": [
-        "./scripts/settings.js",   
-        "./scripts/window-popup.js"   
-    ],
-    "reletionships": {
-        "requires": [
-            {
-                "id": "sequencer",
-                "type": "module"
-            }
-        ]
-    },
+      ], 
     "url": "https://github.com/Nachtrose/NRSAP",
-    "manifest": "https://github.com/Nachtrose/NRSAP/releases/latest/download/module.json",
-    "download": "https://github.com/Nachtrose/NRSAP/releases/latest/download/NRSAP.zip",
+    "manifest": "https://github.com/Nachtrose/NRSAP/releases/download/0.1.3.12i/module.json",
+    "download": "https://github.com/Nachtrose/NRSAP/releases/download/0.1.3.12i/NRSAP.zip",
     "readme": "https://github.com/Nachtrose/NRSAP/blob/main/README.md",
     "bugs": "https://github.com/Nachtrose/NRSAP/issues" 
 }
